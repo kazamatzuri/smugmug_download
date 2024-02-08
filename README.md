@@ -1,8 +1,9 @@
 # smugmug_download
 
-## Updates
+## Updates:
 Fab: Updated the code to python3, and added a bit of status logging to make it more transparent what it is downloading. 
 The rest is still working just fine. 
+
 
 ## Description:
 Downloads all the files stored in your SmugMug account to your local computer.  Uses multiple queues for downloads to keep everything efficient and handles all the complexities of things like recursive traversing of your folder structure, requesting download URLs, and paging through all the files.
