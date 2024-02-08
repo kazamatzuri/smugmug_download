@@ -4,7 +4,7 @@
 Fab: Updated the code to python3, and added a bit of status logging to make it more transparent what it is downloading. 
 The rest is still working just fine. 
 
-## Description:
+## Description
 Downloads all the files stored in your SmugMug account to your local computer.  Uses multiple queues for downloads to keep everything efficient and handles all the complexities of things like recursive traversing of your folder structure, requesting download URLs, and paging through all the files.
 
 When this script completes, all your smugmug files will be local to your drive, organized into subfolders that mirror the organization of your SmugMug account.  All the images for each album will be found in one or more zip files. 
